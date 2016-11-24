@@ -1,0 +1,32 @@
+#purchase-btn {
+  font-size: 24px;
+  background-color: #009ace;
+  margin-bottom: 5px;
+}
+
+.top-content{
+  width: 100%;
+  text-align: center;
+}
+
+.main-container {
+  color:#009ace;
+  font-size: 16px;
+  /*width:60%;*/
+  /*margin:auto;*/
+}
+
+.details-container{
+  padding-top: 20px;
+  color:#444;
+}
+
+
+.contact-span i{
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.contact-span a{
+  color:#444;
+}
